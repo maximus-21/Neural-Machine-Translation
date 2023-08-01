@@ -31,5 +31,5 @@ LSTM based Seq-to-Seq model<br>
 ![Screenshot from 2023-08-01 15-50-31](https://github.com/maximus-21/Neural-Machine-Translation/assets/98597396/ca68ee49-ec14-48b1-812a-663885616fd3)
 
 
-Adding attention mechanism to the decoder gave a significant increase in accuracy and bleu score, the translations were much clear than the baseline model. RNNs were replaced by the attention mechanism as the building block for language modeling in the famous paper: *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)*, which introduced the world with the Transformers.
+Adding attention mechanism to the decoder gave a significant increase in accuracy and bleu score, the translations were much clear than the baseline model. 
 
