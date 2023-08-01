@@ -1,5 +1,5 @@
 # Neural-Machine-Translation
-This repo serves as building of machine translation model using se2seq model in Pytorch.<br>
+This repo serves as building of machine translation model using Seq-to-Seq model in Pytorch.<br>
 
 `Translation`: German to English<br>
 `Dataset`: Multi30k containing English and German captions for images from Flickr<br>
@@ -7,7 +7,7 @@ This repo serves as building of machine translation model using se2seq model in 
 `Prediction`: Greedy
 
 ## Baseline Model
-LSTM based se2seq model<br>
+LSTM based Seq-to-Seq model<br>
 
 `Encoder`: Bidirectional LSTM with each direction having 2 layers <br>
 `Decoder`: 2 layer LSTM<br>
