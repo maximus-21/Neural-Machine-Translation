@@ -19,6 +19,7 @@ LSTM based se2seq model<br>
 ![Screenshot from 2023-08-01 15-46-25](https://github.com/maximus-21/Neural-Machine-Translation/assets/98597396/b54f54e4-127a-45b1-917e-17ee5801d448)
 
 ## Seq-to-Seq model with attention
+*[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)*<br>
 
 `Encoder`: Bidirectional LSTM with each direction having 2 layers <br>
 `Decoder`: 2 layer LSTM with attention mechanism<br>
